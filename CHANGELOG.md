@@ -1,9 +1,9 @@
 # Changelog
 
-## Future Release - TBD
+## 7.2.5
 
-- Fully move to TypeScript interally
-- Publish typings for the split and diff editor
+- Use ace-builds@1.4.7
+- Bump dependencies
 
 ## 7.2.0
 
