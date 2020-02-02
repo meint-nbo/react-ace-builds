@@ -23,6 +23,7 @@ deploy:
       repo: manubb/react-ace-builds
       branch: local
   - provider: npm
+    edge: true
     email: mbaclet@gmail.com
     api_key:
       secure: 1K5bsJGtvYMn3ky4L/XDyyBXC9wApHGcZGgHDZpVaSSX8RnBsFZB2CNkpO9U9lW645uQ+aF7EzS07E2Nd4B3CwipIEMfgW4s79vibN0Yiy8MbPn4WKARzmYbHhEVT8IDFwdOxovlhQedq9kB8xjfTxf0tFV+JQht+vb0JnFlFL5CMjlePT2enMh2yqVBAImL10FM2Cm0d4Y0EGe0vjapNPfP6Hk8jgAmdl3Eh7Kr/47yLo0tafm5HZARQDrCambHh54JZTYRiE/hjgmAkiQzfeKX+0egJRqeU22mMK5oWfJiA/W05fZkANnKwY1912+VL0kfUc1DDP59g0QvuA8oOmCQ26mDliMVKZrjGMW5OVOYjX+tk1QGOUUgaQJ3D/jHwHPuFUhTEb0L/sQfniAfG8TYeepKPNnzAu9/k8K+gHVUv3jMcoNTC1/I9iATOwwmC/LTytQi1ca2a17XM981tNPFwFAMhvL0bHtxYjC34ysCHoGMVDpQ/w2F6VW3vhn12Hqama+hws6BPW2R8hzOAYGi5DK/MdrpjIfNVMwe56iWhuAICVHACx2MbIKoNfeEiC8huN+Ww3YBGG6OvIDEYEqMKWk9lu+KSkzT41MO9EA60Mbw8aSLctlLqc/QU0rW0jdgY3jiSs3hzDLTpaThat/aKTHLENE6GNbqZZGxFjM=
