@@ -1,6 +1,6 @@
 # Changelog
 
-## 7.2.5
+## 7.2.6
 
 - Use ace-builds@1.4.7
 - Bump dependencies
