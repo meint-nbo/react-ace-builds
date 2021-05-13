@@ -1,5 +1,9 @@
 # Changelog
 
+## 7.3.2
+
+- Use ace-builds@1.4.12
+
 ## 7.3.0
 
 - Use ace-builds@1.4.8
