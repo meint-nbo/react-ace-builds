@@ -8,7 +8,7 @@
     "prettier": "prettier --print-width 120 --single-quote --trailing-comma all   --write \"src/**\" \"example/*.js\"",
     "clean": "rimraf lib",
     "lint": "node_modules/.bin/eslint src/*",
-    "example": "webpack serve` --config webpack.config.example.js",
+    "example": "webpack serve --config webpack.config.example.js",
     "build:example": "webpack --config webpack.config.example.js --mode=production",
     "build": "babel src --out-dir lib",
     "check": "npm run lint",

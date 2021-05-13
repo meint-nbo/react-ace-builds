@@ -1652,5 +1652,5 @@ ace.config.setModuleUrl(
 );
 ace.config.setModuleUrl(
   'ace/snippets/zeek',
-  require('file-loader?esModule=false!ace-builds/src-min-noconflict/snippets/zeek.js'))
-;
+  require('file-loader?esModule=false!ace-builds/src-min-noconflict/snippets/zeek.js')
+);
