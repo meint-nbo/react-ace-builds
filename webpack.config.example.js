@@ -15,8 +15,8 @@ module.exports = {
     filename: '[name].js',
     publicPath: 'static/',
   },
+  optimization: { chunkIds: 'total-size', moduleIds: 'size' },
   plugins: [
-    new webpack.optimize.OccurrenceOrderPlugin(),
     new webpack.HotModuleReplacementPlugin(),
   ],
   module: {

@@ -142,10 +142,10 @@ ace.config.setModuleUrl(
   "ace/mode/batchfile",
   require("file-loader?esModule=false!ace-builds/src-min-noconflict/mode-batchfile.js")
 );
-ace.config.setModuleUrl(
-  "ace/mode/bro",
-  require("file-loader?esModule=false!ace-builds/src-min-noconflict/mode-bro.js")
-);
+// ace.config.setModuleUrl(
+//   "ace/mode/bro",
+//   require("file-loader?esModule=false!ace-builds/src-min-noconflict/mode-bro.js")
+// );
 ace.config.setModuleUrl(
   "ace/mode/c9search",
   require("file-loader?esModule=false!ace-builds/src-min-noconflict/mode-c9search.js")
@@ -991,10 +991,10 @@ ace.config.setModuleUrl(
   "ace/snippets/batchfile",
   require("file-loader?esModule=false!ace-builds/src-min-noconflict/snippets/batchfile.js")
 );
-ace.config.setModuleUrl(
-  "ace/snippets/bro",
-  require("file-loader?esModule=false!ace-builds/src-min-noconflict/snippets/bro.js")
-);
+// ace.config.setModuleUrl(
+//   "ace/snippets/bro",
+//   require("file-loader?esModule=false!ace-builds/src-min-noconflict/snippets/bro.js")
+// );
 ace.config.setModuleUrl(
   "ace/snippets/c9search",
   require("file-loader?esModule=false!ace-builds/src-min-noconflict/snippets/c9search.js")
